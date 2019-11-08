@@ -1,3 +1,25 @@
+# Final assignment for Frontend dev course in haaga-helia
+
+TODO:
+
+    Task 2.
+
+    Add following CRUD functions to list pages
+
+    - Add training to customer
+
+    - Delete training (Add also yes/no confirmation dialog)
+
+
+    Task 3.
+
+    Add calendar page where user can see trainings (monthly, weekly, daily)
+
+    Optional extra task: Add authentication using Firebase
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
