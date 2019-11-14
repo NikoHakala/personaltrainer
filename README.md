@@ -8,8 +8,6 @@ TODO:
 
     - Add training to customer
 
-    - Delete training (Add also yes/no confirmation dialog)
-
 
     Task 3.
 

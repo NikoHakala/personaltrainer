@@ -23,7 +23,6 @@ const CustomerList = () => {
         setOpen(false);
     };
 
-
     const fetchCustomers = () => {
         fetch('https://customerrest.herokuapp.com/api/customers')
         .then((response) => response.json())
