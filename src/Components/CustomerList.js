@@ -101,7 +101,6 @@ const CustomerList = () => {
             accessor: 'phone'
         },
         {
-            
             filterable: false,
             sortable: false,
             width: 100,
