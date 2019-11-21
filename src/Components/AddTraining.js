@@ -68,6 +68,14 @@ export default function AddTraining(props) {
                         label="Activity"
                         fullWidth
                     />
+                    <TextField
+                        margin="dense"
+                        name="customerid"
+                        value={training.customerid}
+                        onChange={e => handleChange(e)}
+                        label="CustomerID"
+                        fullWidth
+                    />
                     </DialogContent>
                     <DialogActions>
                     <Button onClick={handleClose} color="primary">

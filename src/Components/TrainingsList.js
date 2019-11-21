@@ -69,10 +69,14 @@ const TrainingsList = () => {
         .catch(err => console.error(err))
     }
 
+
+    //const Moment = () => moment();
+
+
     const columns = [
         {
             Header: "Date",
-            accessor: "date"
+            accessor: "date" // format this with moment()
         },
         {
             Header: "Duration(m)",
